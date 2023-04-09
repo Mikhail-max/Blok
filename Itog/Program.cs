@@ -31,3 +31,5 @@ string[] array =
     "eojwe",
     "p"
 };
+ShowArray(array);
+ShowArray(Massiv(array));
